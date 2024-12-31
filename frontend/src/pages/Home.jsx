@@ -19,7 +19,7 @@ function Home() {
         }
     
         
-    }, [bookName]); // Effect will run when bookName changes
+    }, [bookName]); 
 
     
 
